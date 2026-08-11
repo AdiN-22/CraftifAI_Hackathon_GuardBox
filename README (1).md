@@ -134,8 +134,6 @@ Local LED/alert behavior continues uninterrupted if Wi-Fi/MQTT is unavailable or
   - `SHA256SUMS.txt` — checksums for the release artifacts
 - **`README.md`** (this file) — project overview, problem statement, wiring/BOM, build instructions, and design notes
 
-> Task List screenshots and the FirmGen chat export should be added alongside these files before final submission — see the [Demo Video](#demo-video) section below for what else is still needed.
-
 ## Demo Video
 
 https://drive.google.com/file/d/14juo6N9LKt5onGFpymNOg-u7iKAOcpPS/view?usp=sharing
