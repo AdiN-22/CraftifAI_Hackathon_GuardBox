@@ -126,4 +126,4 @@ Local LED/alert behavior continues uninterrupted if Wi-Fi/MQTT is unavailable or
 
 ## Demo Video
 
-(https://drive.google.com/file/d/14juo6N9LKt5onGFpymNOg-u7iKAOcpPS/view?usp=drive_link)
+(https://drive.google.com/file/d/14juo6N9LKt5onGFpymNOg-u7iKAOcpPS/view?usp=sharing)
